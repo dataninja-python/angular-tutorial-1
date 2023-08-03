@@ -1,0 +1,41 @@
+Page Goals:
+
+[] Rotating logo loading screen (1s)
+    [] create SVG circular version of logo
+    [] use react spinning logo code as inspiration to create quick logo spin
+    [] TODO: click button to skip
+[] Page reveal animation (1.25s)
+    [] draw out how you want page to open from the center outward
+    [] find similar animation code
+    [] experiment with code until it works as desired
+    [] TODO: click button to skip
+[] Landing page
+    [] INSPIRATION: webdev simplified infinite scrolling course selling app (see his YT)
+    [] Why read each section of the page? Every section should have a hook.
+    [] What is our reason for being?
+    [] What specifically do we do?
+    [] Why should you care?
+[] Waitlist Start Button (randomize mix later)
+    - [] email & why
+    - [] first & last name
+    - [] phone & why
+    - [] gender pronouns
+    - [] shoe size
+        - [] preference #1: mens, womens, or child
+    - [] rank these popular shoe brands (use a drop down menu with only 3 positions)
+        - [] Adidas
+        - [] Asics
+        - [] Converse
+        - [] New Balance
+        - [] Nike
+        - [] Puma
+        - [] Reebok
+        - [] Vans
+        - [] Fila
+        - [] Hoka
+        - [] On Cloud
+        - [] Veja
+        - [] Golden Goose
+        - [] Crocs
+[] Waitlist Mini-Form
+[]
